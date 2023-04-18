@@ -1,0 +1,1 @@
+This repositories contains a small application that format some analytics data. This small application were built for a coworker that were having some trouble with some code format. Then I built that code and that logic to help him
